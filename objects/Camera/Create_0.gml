@@ -63,3 +63,4 @@ instance_create_depth(0, 0, 0, Player);
 vb_player = load_model("player.d3d");
 
 vb_link = load_model("link.d3d");
+link_rotation = 0;
